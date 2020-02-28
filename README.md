@@ -1,2 +1,2 @@
 # Music
-A library -_-
+A simple music library -_-
